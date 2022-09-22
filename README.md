@@ -1,3 +1,7 @@
+<a href="http://api.whatsapp.com/send?1=pt_BR&phone=5592994633882" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://t.me/anikkiller" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="[https://web.facebook.com/almir.reboucas](https://www.facebook.com/almir.reboucas)" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/almir-rebouças-8965422b" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+
 Hello there!!
 
 I'm Almir Rebouças, but you call me for my nickname or my real name. I'm ok with both. 😊.
@@ -48,3 +52,22 @@ I love animals, but cats are my ⭐.
 I like playing games like conventional D&D and action RPG, and a few MMOs.
 One day i'll learn and do a triple A action RPG.
 My goal is to be my best version and do the better job i can do every day.
+
+My contacts are:
+
+Phone, Whatsapp, Telegram: +55 92 994633882
+
+E-mail: almir.reboucas@outlook.com
+
+Linkedin: https://www.linkedin.com/in/almir-rebouças-8965422b/
+
+Github: https://github.com/AnikillerBR
+
+Instagram: https://www.instagram.com/almir_reboucas/
+
+Facebook: https://www.facebook.com/almir.reboucas
+
+Twitter: https://twitter.com/ReboucasAlmir
+
+Gettr: https://gettr.com/user/almir_reboucas
+
