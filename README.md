@@ -1,4 +1,4 @@
-<a href="http://api.whatsapp.com/send?1=pt_BR&phone=5592994633882" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://t.me/anikkiller" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="[https://web.facebook.com/almir.reboucas](https://www.facebook.com/almir.reboucas)" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/almir-rebouças-8965422b" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="http://api.whatsapp.com/send?1=pt_BR&phone=5592994633882" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://t.me/anikkiller" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/almir-rebouças-8965422b" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
@@ -45,6 +45,12 @@ I'll study in the future:
 <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 </div>
 <br />
+
+<div align="center">
+  <a href="https://github.com/anikillerbr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anikillerbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikillerbr&layout=compact&langs_count=7&theme=dracula"/></a>
+</div>
 
 About me:
 
