@@ -4,11 +4,11 @@
 
 Hello there!!
 
-I'm Almir Rebouças, but you call me for my nickname or my real name. I'm ok with both. 😊.
+I'm Almir Rebouças, but you can call me for my nickname or my real name. I'm ok with both. 😊.
 
-I lived my entire life in Manaus, in the middle of Amazon Forest, but i promisse you, that i'm living inside a normal house, not inside a tree like someone can think. 🏠
+I've lived my entire life in Manaus, in the middle of Amazon Forest, but i promisse you, that i'm living inside a normal house, not inside a tree like someone can think. 🏠
 
-I'm in love with tech things or tech area since i can remember. But only, this year (2022), i've started to pursuit my web developer side. I really love to know new things. And now im finishing (Nov 2022) my professional course in Full Stack Developer at Cubos Academy. I'm ready to work like back end or front end. 🏫🎒
+I'm in love with tech things or tech area since i can remember. But only, this year (2022), i've started to pursuit my web developer side. I really love to know new things. And now im finishing (Nov 2022) my professional course in Full Stack Developer at Cubos Academy. I'm ready to work like Back end or Front end or Full Stack 🏫🎒
 
 I have experience in leadership, human interaction and a lot softskills, that i've learned with my experiences. I'm a very happy person. Its not rare see me with a smile face. 😊
 
@@ -48,9 +48,9 @@ I'll study in the future:
 
 <div align="center">
   <a href="https://github.com/anikillerbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anikillerbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikillerbr&layout=compact&langs_count=7&theme=dracula"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anikillerbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikillerbr&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
+
 
 About me:
 
